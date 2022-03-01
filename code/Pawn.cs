@@ -16,12 +16,14 @@ namespace Sandbox
 			//
 			// Use a watermelon model
 			//
-			SetModel( "models/sbox_props/watermelon/watermelon.vmdl" );
+			SetModel( "models/citizen/citizen.vmdl" );
 
 			EnableDrawing = true;
 			EnableHideInFirstPerson = true;
 			EnableShadowInFirstPerson = true;
 		}
+
+		
 
 		/// <summary>
 		/// Called every tick, clientside and serverside.
