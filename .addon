@@ -1,5 +1,5 @@
 {
-  "Title": "Just be Spyro",
+  "Title": "Just Be Spyro",
   "Type": "game",
   "Org": "pizza",
   "Ident": "justbespyro",
@@ -8,6 +8,6 @@
   "AssetsPath": "",
   "ResourcePaths": null,
   "HasCode": true,
-  "CodePath": "/code/",
+  "CodePath": "code/",
   "RootNamespace": "Sandbox"
 }
